@@ -1,5 +1,5 @@
 # PDF-Analyzer
-PDF-Analyzer is a user friendly designed for retrieval of data from a pdf provided to it.
+PDF-Analyzer is a user friendly tool designed for retrieval of data from a pdf provided to it.
 
 ![image](https://github.com/user-attachments/assets/54be951a-5060-4d45-942a-c6fbd61ce55b)
 
